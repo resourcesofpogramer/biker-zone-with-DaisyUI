@@ -1,0 +1,40 @@
+.boddy-margin{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.header-nave-barr{
+    display: flex;
+    justify-content: space-between;
+}
+.header-nave-barr h1{
+font-size: 30px;
+}
+.nave-barr-ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.bottone-primary{
+    background-color: #E76F51;
+    width: 110px;
+    height: 50px;
+    color: #FFFF;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.btn-text-div{
+    margin-top: 20px;
+    display: flex;
+    gap:100px;
+}
+.rider-div{
+    margin-top: 50px;
+    background-color: #ffe0d8;
+    display: flex;
+    padding: 100px;
+    justify-content: space-between;
+}
+.ride-section-text{
+    width: 375px;
+}
